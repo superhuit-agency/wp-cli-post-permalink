@@ -1,9 +1,10 @@
 {
   "name": "superhuit-agency/wp-cli-post-permalink",
   "type": "wp-cli-package",
+  "version": "1.0.0",
   "description": "Add a `wp post permalink` command to list post permalinks.",
   "homepage": "https://github.com/superhuit-agency/wp-cli-post-permalink",
-  "license": "MIT",  
+  "license": "MIT",
   "authors": [
       {
           "name": "superhuit",
