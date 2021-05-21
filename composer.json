@@ -1,0 +1,20 @@
+{
+  "name": "superhuit-agency/wp-cli-post-permalink",
+  "type": "wp-cli-package",
+  "description": "Add a `wp post permalink` command to list post permalinks.",
+  "homepage": "https://github.com/superhuit-agency/wp-cli-post-permalink",
+  "license": "MIT",  
+  "authors": [
+      {
+          "name": "superhuit",
+          "email": "tech@superhuit.ch"
+      },
+      {
+          "name": "Felipe Paul Martins aka. Kuuak",
+          "email": "felipe.paulmartins@outlook.com"
+      }
+  ],
+  "require": {
+      "php": ">=5.4.0"
+  }
+}
